@@ -1,0 +1,3 @@
+mysql --host=HOSTNAME --user=USERNAME --password DATABASE
+
+mysql --host=mysqldatabase.cesw5aox2bq0.us-east-1.rds.amazonaws.com --user=admin --password todos

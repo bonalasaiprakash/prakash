@@ -1,0 +1,26 @@
+
+
+
+ sudo yum install -y amazon-efs-utils
+
+  sudo nano /etc/fstab
+
+sudo  mount -fav
+
+
+
+file-system-id efs-mount-point efs _netdev,tls,accesspoint=access-point-id 0 0
+
+
+  fs-02bfa908b2ddc7a69 sog efs _netdev,tls,accesspoint=fsap-0057751ea07072d24 0 0
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,49 @@
+sudo file -s /dev/sdf   
+
+
+sudo mkfs -f xfs /dev/xvdf  
+
+ 
+
+lsblk
+
+
+
+sudo mkdir /data
+ 
+cd \ data
+
+
+
+
+sudo mount /dev/xvdf /gun
+
+cd /data
+
+
+sudo touch file name
+
+
+cd
+
+
+sudo umount /train
+
+
+
+sudo mv dog /fox
+
+
+
+  
+
+ 
+
+
+
+
+
+
+
+
+
