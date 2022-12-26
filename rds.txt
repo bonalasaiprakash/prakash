@@ -1,3 +1,8 @@
 mysql --host=HOSTNAME --user=USERNAME --password DATABASE
 
 mysql --host=mysqldatabase.cesw5aox2bq0.us-east-1.rds.amazonaws.com --user=admin --password todos
+###########################################################################
+sudo apt update
+ sudo apt install mysql-client -y
+  mysql -h database-1.cpjr92drrlxy.us-east-1.rds.amazonaws.com -u admin -pdevops123
+  
