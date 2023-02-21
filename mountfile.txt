@@ -1,7 +1,7 @@
 sudo file -s /dev/sdf   
 
 
-sudo mkfs -f xfs /dev/xvdf  
+sudo mkfs -t xfs /dev/xvdf  
 
  
 
